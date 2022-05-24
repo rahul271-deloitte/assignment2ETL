@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TalendMetadata:DatabaseConnection xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmi:id="_mjfJcNsbEeyUb8gLoYYv0g" name="mypostgresql" id="_g5HSgNsZEeyUb8gLoYYv0g" label="mypostgresql" DatabaseType="PostgreSQL" DriverClass="org.postgresql.Driver" URL="jdbc:postgresql://localhost:5432/?" dbVersionString="V9_X" Port="5432" Username="rahulsharma" Password="enc:system.encryption.key.v1:lbeunvDVViwzo7am7fQckVmkYgjR631S0yHHyh908T1RMqATae8=" ServerName="localhost" DatasourceName="" FileFieldName="" SID="" SqlSynthax="" StringQuote="" NullChar="" DbmsId="postgres_id" ProductId="POSTGRESQL" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="">
+  <taggedValue xmi:id="_mjfJcdsbEeyUb8gLoYYv0g" tag="Is Conn Need Reload" value="true"/>
+  <taggedValue xmi:id="_mkGNcNsbEeyUb8gLoYYv0g" tag="package filter" value=""/>
+  <taggedValue xmi:id="_mkLtANsbEeyUb8gLoYYv0g" tag="Status" value=""/>
+  <taggedValue xmi:id="_mkLtAdsbEeyUb8gLoYYv0g" tag="Version" value="0.1"/>
+  <taggedValue xmi:id="_mkLtAtsbEeyUb8gLoYYv0g" tag="Purpose" value=""/>
+  <taggedValue xmi:id="_mkLtA9sbEeyUb8gLoYYv0g" tag="Description" value=""/>
+  <taggedValue xmi:id="_mkLtBNsbEeyUb8gLoYYv0g" tag="Author" value=""/>
+  <taggedValue xmi:id="_mkLtBdsbEeyUb8gLoYYv0g" tag="otherParameter"/>
+  <parameters xmi:id="_mjfJctsbEeyUb8gLoYYv0g" key="CONN_PARA_KEY_USERNAME" value="rahulsharma"/>
+  <parameters xmi:id="_ww0RYNshEeyUb8gLoYYv0g" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
+</TalendMetadata:DatabaseConnection>
